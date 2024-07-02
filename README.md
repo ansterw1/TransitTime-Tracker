@@ -9,4 +9,5 @@ A project that my friends and I built to interprete how dense traffic is from th
 * potentiometer
 * breadboard
 * wires
+* led strip
 * micro usb cable
